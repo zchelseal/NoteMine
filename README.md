@@ -1,4 +1,3 @@
-# skipClass
-Hackathon App
+# NoteMine (Formerly skipClass, https://imilisav.github.io/skipClass/)
+Hackathon App from EngHacks
 
-https://imilisav.github.io/skipClass/
